@@ -118,23 +118,6 @@ Some relevant findings from the analysis:
 
 ---
 
-## Repository Structure
-sales-data-analysis
-│
-├── SQL
-│ ├── data_cleaning.sql
-│ ├── views.sql
-│ └── analysis_queries.sql
-│
-├── powerbi
-│ └── dashboard.pbix
-│
-├── imagenes
-│ └── dashboard.png
-│
-└── README.md
----
-
 ## Future Improvements
 
 Potential improvements for this project include:
